@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <title> my first assignment</title> 
+   </head>
+<body>
+    <hi>RUKAYAT AYINLA</hi>
+
+    <p>I am from Nigeria, i am currently an undergraduate of LAUTECH studying computer science <br>
+        my future aspiration is to become a backend software engineer. At my spare time i love <br>
+        listening to music, i am currently running a program at PLP.
+    </p>
+    <h2>HOBBIES</h2>
+    <ol>
+        <li>listening to music</li>
+        <li>sleeping</li>
+        <li>eating</li>
+        <li>stories</li>
+    </ol>
+    <h3>DISLIKES</h3>
+    <ul>
+        <li>politics</li>
+        <li>football</li>
+        <li>doing hard things</li>
+    </ul>
+</body>
+</html>
